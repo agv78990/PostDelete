@@ -1,0 +1,5 @@
+Api a medium through which communication between any appplication and the server takes place.
+behind any click in the web, API calls keep on running. for every action there are different API going 
+on.
+It is an interface through which we can access the database of the server through authorization.
+We can fetch info, create new data, update it and can also delete it.
